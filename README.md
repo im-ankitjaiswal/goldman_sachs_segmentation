@@ -123,59 +123,8 @@ Interactive dashboard with 4 visuals + segment slicer:
 - Scatter plot — balance vs credit limit colored by segment
 - KPI cards — total customers, avg balance, avg credit limit, avg purchase
 
-> Screenshot: [Add your Power BI dashboard screenshot here]
+> Screenshot: 👉 [View Full Analysis](https://docs.google.com/gview?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/docs/goldman_sachs_segmentation.pdf)
 
----
 
-## How to Run
-```bash
-# 1. Clone repository
-git clone https://github.com/yourusername/goldman-sachs-segmentation
 
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Download dataset
-# Place CC GENERAL.csv in /data folder from:
-# https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
-
-# 4. Run notebook
-jupyter notebook notebooks/customer_segmentation.ipynb
-
-# 5. Open Power BI
-# Load outputs/powerbi_data.csv into Power BI Desktop
-```
-
----
-
-## File Structure
-```
-goldman_sachs_segmentation/
-├── data/
-│   └── CC GENERAL.csv
-├── notebooks/
-│   └── customer_segmentation.ipynb
-├── outputs/
-│   ├── 01_missing_values.png
-│   ├── 02_distributions.png
-│   ├── 03_correlation.png
-│   ├── 04_elbow.png
-│   ├── 05_pca_clusters.png
-│   ├── 06_segment_metrics.png
-│   ├── 07_boxplots.png
-│   ├── 08_pie_summary.png
-│   ├── powerbi_data.csv
-│   └── powerbi_dashboard.pdf
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Author
-**[Your Name]**  
-Aspiring Data Analyst | Python · SQL · Power BI · Tableau  
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
-
----
 *Dataset source: Kaggle — Credit Card Dataset for Clustering*
