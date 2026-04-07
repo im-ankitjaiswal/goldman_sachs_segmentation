@@ -123,7 +123,7 @@ Interactive dashboard with 4 visuals + segment slicer:
 - Scatter plot — balance vs credit limit colored by segment
 - KPI cards — total customers, avg balance, avg credit limit, avg purchase
 
-> Screenshot: 👉 [View Full Analysis](https://docs.google.com/gview?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/docs/goldman_sachs_segmentation.pdf)
+> Screenshot: 👉 [View Full Analysis](https://github.com/im-ankitjaiswal/goldman_sachs_segmentation/blob/main/goldman_sachs_segmentation.pdf)
 
 
 
